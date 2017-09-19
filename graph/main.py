@@ -21,3 +21,4 @@ with tf.Session() as sess:
 	for i in range(3):
 		# 掛け算を計算するまでのループを実行
 		print(sess.run(mul, feed_dict={c:3}))
+
