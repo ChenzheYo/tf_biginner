@@ -40,7 +40,7 @@ with tf.Session() as sess:
     test_images = mnist.test.images    
     test_labels = mnist.test.labels    
 
-    step = 0    
+   
     for i in range(1000):
         step = i + 1        
         train_images, train_labels = mnist.train.next_batch(50)
