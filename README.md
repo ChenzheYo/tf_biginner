@@ -17,3 +17,5 @@ checkpointファイルを用いてモデルを保存、読み込み、再学習�
 ### board
 基本的なTensorBoardの使い方を解説するためのMNIST手書き文字認識プログラム。
 
+### s_mnist
+TensorFlowでRNNを入門するためのSequential MNIST。
