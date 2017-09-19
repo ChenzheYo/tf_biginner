@@ -20,5 +20,8 @@ checkpointファイルを用いてモデルを保存、読み込み、再学習�
 ### embeddings
 TensorBoardのEmbeddingsのデモをするためのプログラム。
 
+### text
+TensorBoardのTEXTの簡単なデモ。
+
 ### s_mnist
 TensorFlowでRNNを入門するためのSequential MNIST。
