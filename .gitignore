@@ -3,3 +3,5 @@
 *.pyc
 .python-version
 *.gz
+events.out*
+
